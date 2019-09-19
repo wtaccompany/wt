@@ -1,0 +1,23 @@
+.detail{
+    width: 1000px;
+    text-align: center;
+    margin: 30px auto;
+}
+.img{
+width:1000px;
+    height: 300px;
+}
+.title{
+    text-indent: 2em;
+    font-size: 18px;
+    color: #d5d5d5;
+}
+.ant-carousel .slick-slide {
+    text-align: center;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.ant-carousel .slick-slide h3 {
+    color: #fff;
+}
